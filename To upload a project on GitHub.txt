@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial Commit"
+git status
+git remote add origin ssh url.git
+git push origin master
